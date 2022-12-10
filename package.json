@@ -1,6 +1,6 @@
 {
   "name": "rollup-output-names-regexp-mappers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple Rollup output filenames mappers that uses regular expressions",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

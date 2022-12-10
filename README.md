@@ -51,7 +51,7 @@ export const manualChunksMap: MappingItemType[] = [
 // rollup.config.ts
 import { fileURLToPath } from 'node:url'
 import { mapChunkOrAssetFileNames, mapManualChunkNames } from 'rollup-output-names-regexp-mappers';
-import { manualChunksMap, assetsMap } from './vite-chunks';
+import { manualChunksMap, assetsMap } from './mapping-tables';
 
 export default {
   ...,
